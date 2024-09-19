@@ -1,4 +1,4 @@
-![logo](https://github.com/VanshikaThakre/VanshikaThakre/blob/main/github-header-image(2).png)
+![logo](https://github.com/VanshikaThakre/VanshikaThakre/blob/main/github-header-image(4).png)
 <h1 align="center">Hi 👋, I'm Vanshika Thakre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
